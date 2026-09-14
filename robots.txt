@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://usabandit33.github.io/travel-fee-first/sitemap.xml

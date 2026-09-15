@@ -13,7 +13,8 @@ Href: https://usabandit33.github.io/travel-fee-first/
 | Notary of Portland | notary@blueinkcompanies.com | 971-599-3080 | notaryofportland.com | **2026-09-14** | due ~09-17/18 | due ~09-21/24 | due ~09-27/28 | |
 | The Notaryous LLC | shavon@thenotaryousllc.com | 503-489-8519 | thenotaryousllc.com | **2026-09-14** | due ~09-17/18 | due ~09-21/24 | due ~09-27/28 | |
 | Elena Signs PDX | elena@elenasignspdx.com | 503-915-4610 | elenasignspdx.com | **2026-09-14** | due ~09-17/18 | due ~09-21/24 | due ~09-27/28 | |
-| Westman Notary | info@westmannotary.com | 503-430-9667 | westmannotary.com | **2026-09-14** | due ~09-17/18 | due ~09-21/24 | due ~09-27/28 | |
+| SNAP Notary | jeff@snapnotary.us | 503-766-7350 | snapnotary.us | **2026-09-15** | due ~09-18/21 | due ~09-22/25 | due ~09-28/29 | replaced Westman |
 
 ## Log
 - 2026-09-14: Pages HTTP 200. Phone-led T1 ×5.
+- 2026-09-15: Westman bounced (info@westmannotary.com domain NXDOMAIN). Removed from portland.html + contacts. Replaced with SNAP Notary (phone+email on snapnotary.us). T1 sent to jeff@snapnotary.us.
